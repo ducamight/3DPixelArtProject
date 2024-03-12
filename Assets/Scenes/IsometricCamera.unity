@@ -405,6 +405,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7476370327582259940, guid: 7b2d90c83369e1843ba30832e4f0e542,
+        type: 3}
+      propertyPath: m_HDR
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7476370327582259940, guid: 7b2d90c83369e1843ba30832e4f0e542,
+        type: 3}
+      propertyPath: m_AllowMSAA
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8052063326320669542, guid: 7b2d90c83369e1843ba30832e4f0e542,
+        type: 3}
+      propertyPath: m_RequiresDepthTextureOption
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8052063326320669542, guid: 7b2d90c83369e1843ba30832e4f0e542,
+        type: 3}
+      propertyPath: m_RequiresOpaqueTextureOption
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9056367595667326307, guid: 7b2d90c83369e1843ba30832e4f0e542,
         type: 3}
       propertyPath: m_Name
